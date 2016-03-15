@@ -1,0 +1,25 @@
+{
+	"version": "1.0.0",
+	"name": "donePM",
+	"launch_path": "/app",
+	"description": "A front-end template that helps you build fast, modern mobile web apps.",
+	"icons": {
+		"128": "/images/touch/apple-touch-icon-120x120.png"
+	},
+	"developer": {
+		"name": "",
+		"url": ""
+	},
+	"installs_allowed_from": [
+		"*"
+	],
+	"default_locale": "en",
+	"permissions": {
+	},
+	"locales": {
+		"en": {
+			"name": "donePM",
+			"description": "A modern approach to task and project management"
+		}
+	}
+}

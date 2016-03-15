@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe InDesign 4.0 SVG Export Plug-in, SVG Library version: 6.0 build 159 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/SVG/DTD/svg10.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="142pt" height="142pt" xml:space="preserve">
+<clipPath id="clp1" fill="none">
+	<path shape-rendering="crispEdges" stroke="#000000" d="M0,0h142v142H0z"/>
+</clipPath>
+<g clip-path="url(#clp1)" fill="none">
+	<clipPath id="clp2">
+		<path shape-rendering="crispEdges" stroke="#000000" d="M1,1v140h140V1H1z"/>
+	</clipPath>
+	<g clip-path="url(#clp2)">
+		<g transform="matrix(2 0 0 -2 -179 771)">
+			<path fill-rule="evenodd" fill="#000000" d="M125.136,336.528l-7.848,6.696v12.6l16.128,19.08l14.112-12.024L125.136,336.528
+				L125.136,336.528z M117.288,316.152c2.592-0.576,5.256-0.936,7.992-0.936c19.296,0,34.92,15.624,34.92,34.92
+				c0,19.296-15.624,34.992-34.92,34.992c-2.736,0-5.4-0.36-7.992-0.936v-3.888c2.52,0.648,5.256,1.008,7.992,1.008
+				c17.208,0,31.176-13.968,31.176-31.176s-13.968-31.104-31.176-31.104c-2.736,0-5.472,0.36-7.992,1.008V316.152L117.288,316.152z
+				 M117.288,332.568l6.192,2.016l-6.192,5.256V332.568z M117.288,343.224l-6.264,5.256l6.264,7.344V343.224L117.288,343.224z
+				 M117.288,384.192c-15.408-3.672-26.928-17.496-26.928-34.056c0-16.488,11.52-30.384,26.928-33.984v3.888
+				c-13.32,3.528-23.184,15.696-23.184,30.096c0,14.472,9.864,26.64,23.184,30.168V384.192L117.288,384.192z M117.288,339.84
+				l-7.92,6.696l-2.448-17.28l10.368,3.312V339.84z"/>
+		</g>
+	</g>
+</g>
+</svg>
